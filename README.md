@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Sam! 💜
+# Hi! I'm Aerithen!
 
 <p align="center">
   <a href="https://pnk.wtf">Portfolio</a> • 
@@ -13,15 +13,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsucksatcoding&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sam's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsucksatcoding&theme=tokyonight&hide_border=true" alt="Sam's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsucksatcoding&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
