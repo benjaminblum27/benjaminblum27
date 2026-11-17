@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://pnk.wtf">Portfolio</a> • 
-  <a href="https://pnk.wtf">itzsam.cfd</a> • 
 </p>
 
 ---
