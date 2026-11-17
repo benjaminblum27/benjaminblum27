@@ -3,7 +3,7 @@
 # Hi! I'm Benjamin!
 
 <p align="center">
-  <a href="https://pnk.wtf">Portfolio</a> • 
+  <a href="https://pnk.wtf">Portfolio</a>
 </p>
 
 ---
