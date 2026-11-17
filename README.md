@@ -34,7 +34,7 @@
 <details>
   <summary><b>Contact Info</b></summary>
   <br />
-  I won't bite! <sub>much...</sub>
+  I won't bite!
   <br /><br />
   <p align="center">
     <a href="https://discord.com/users/547965490727747585">
