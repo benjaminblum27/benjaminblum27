@@ -37,8 +37,8 @@
   I won't bite! <sub>much...</sub>
   <br /><br />
   <p align="center">
-    <a href="https://discord.com/users/1356484298705862676">
-      <img src="https://lanyard.cnrad.dev/api/1356484298705862676" alt="Discord Presence">
+    <a href="https://discord.com/users/547965490727747585">
+      <img src="https://lanyard.cnrad.dev/api/547965490727747585" alt="Discord Presence">
     </a>
   </p>
 </details>
