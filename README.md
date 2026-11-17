@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi! I'm Aerithen!
+# Hi! I'm Benjamin!
 
 <p align="center">
   <a href="https://pnk.wtf">Portfolio</a> • 
-  <a href="https://itzsam.cfd">itzsam.cfd</a> • 
-  <a href="https://viora.buzz">viora.buzz</a>
+  <a href="https://pnk.wtf">itzsam.cfd</a> • 
 </p>
 
 ---
